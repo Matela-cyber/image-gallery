@@ -1,0 +1,57 @@
+.button
+{
+    -fx-background-color: #d6eaf8;
+    -fx-border-color: none;
+    -fx-pref-height: 30px;
+    -fx-pref-width: 100px;
+    -fx-font-weight: Bold;
+     -fx-text-fill: #e74c3c;
+
+
+
+}
+.button2{
+    -fx-border-width: 0 0 10px 0; /* Top Right Bottom Left */
+    -fx-border-color: transparent transparent white transparent;
+    -fx-border-style: solid;
+    -fx-font-size: 20px;
+    }
+.nav-button: hover
+{
+    -fx-background-color: #2471a3;
+ }
+.button: hover{
+    -fx-background-color: #2471a3;
+}
+.nav-button {
+     -fx-pref-height: 70px; /* Adjust height */
+     -fx-pref-width: 20px;  /* Adjust width if needed */
+     -fx-font-size: 16px; /* Optional: Increase text size */
+     -fx-font-weight: Bold;
+     -fx-text-fill: #1f618d;
+     -fx-border-width: 0 0 0 10px; /* Top Right Bottom Left */
+     -fx-border-color: transparent transparent transparent white;
+ }
+ .nav-button2 {
+      -fx-pref-height: 70px; /* Adjust height */
+      -fx-pref-width: 20px;  /* Adjust width if needed */
+      -fx-font-size: 16px; /* Optional: Increase text size */
+      -fx-font-weight: Bold;
+      -fx-text-fill: #1f618d;
+      -fx-border-width: 0 10px 0 0; /* Top Right Bottom Left */
+      -fx-border-color: transparent white transparent transparent;
+
+
+  }
+
+.thumbnail-button {
+    -fx-background-color: transparent; /* No default background */
+    -fx-padding: 15px; /* Add padding around each thumbnail */
+    -fx-background-radius: 0px;
+}
+
+.thumbnail-button:hover {
+    -fx-background-color:#d6eaf8; /* Change color on hover */
+    -fx-border-width: 0.2px;
+    -fx-border-color: #2980b9;
+}
