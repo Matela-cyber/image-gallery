@@ -37,9 +37,9 @@ demo
 
 ## 🎨 UI Preview  
 
-![App Screenshot](Screenshot (313).png)
+![App Screenshot](Screenshot.png)
 ![App Screenshot](Screenshot1.png)
-Screenshot (313).png
+
 
 
 ## 🛠️ Technologies Used  
